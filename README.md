@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffaestt&labelColor=%23000000&countColor=%23ffbaab)
 
-### I'm Göktuğ, if i need to explain myself, Im a guy who is into coding
+### Yo, I am Göktuğ (a.k.a faest). Selflearner, developer mainly on websites & Discord Bots. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faestt&show_icons=true&theme=gruvbox)
 
